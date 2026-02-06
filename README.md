@@ -40,9 +40,11 @@ You can interact with the live version of this project on Hugging Face Spaces:
 In the notebook, you will see how we achieved a **~70-90% reduction** in data points while keeping the image recognizable. This is the same logic used in JPEG compression and facial recognition algorithms.
 
 *Created with a focus on clean math and efficient code.*
-Author: *Ademuyiwa Afeez*
-linkedln:**[[link](https://www.linkedin.com/in/celpha2svx?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]**
-Email:**[[gmail](ademuyiwaafeez077@gmail.com)]**
+## Author:  Ademuyiwa Afeez
+
+linkedln:**[[Ademuyiwa Afeez ](https://www.linkedin.com/in/celpha2svx?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]**
+
+Email:**[[ademuyiwaafeez077@gmail.com](ademuyiwaafeez077@gmail.com)]**
 
 ---
 
