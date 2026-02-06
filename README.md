@@ -1,6 +1,5 @@
 
-```markdown
-# Linear Algebra for Data Science: From Theory to NumPy 🚀
+# Linear Algebra for Data Science: From Theory to NumPy 
 
 > **"Is the future a mystery, or just an unsolved equation?"**
 
