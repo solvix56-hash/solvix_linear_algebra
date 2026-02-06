@@ -25,7 +25,8 @@ Using `np.linalg.svd`, we translate these complex equations into optimized code.
 
 ## 🛠️ Project Structure
 
-* `notebooks/linear_algebra_compression.ipynb`: A step-by-step breakdown with mathematical explanations and print-outs of the data transformation.
+* `linear_algebra.ipynb`: A step-by-step breakdown with mathematical explanations and print-outs of the data transformation.
+* `images.png`: a demo image for the notebook
 * `app.py`: A **Streamlit** dashboard that allows you to upload your own images and see the compression happen in real-time.
 * `requirements.txt`: Necessary libraries to run the environment.
 
@@ -33,14 +34,18 @@ Using `np.linalg.svd`, we translate these complex equations into optimized code.
 
 ## 🚀 Live Demo
 You can interact with the live version of this project on Hugging Face Spaces:
-**[Insert Your Hugging Face Link Here]**
+**[[Demo link](https://celpha2svxx-solvix-linear-algebra.hf.space)]**
 
 ## 📂 Featured Solution: Image Compression
 In the notebook, you will see how we achieved a **~70-90% reduction** in data points while keeping the image recognizable. This is the same logic used in JPEG compression and facial recognition algorithms.
 
----
 *Created with a focus on clean math and efficient code.*
 Author: *Ademuyiwa Afeez*
+linkedln:**[[link](https://www.linkedin.com/in/celpha2svx?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]**
+Email:**[[gmail](ademuyiwaafeez077@gmail.com)]**
+
+---
+
 
 
 ```
